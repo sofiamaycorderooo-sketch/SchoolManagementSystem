@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class FeesForm extends JFrame {
+    // Added fee computation
     private JPanel panel1;
     private JTextField tuitionField;
     private JTextField miscField;
