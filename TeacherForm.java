@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class TeacherForm extends JFrame {
+    // Added teacher schedule
     private JPanel panelmain;
     private JTextField subjectField;
     private JTextField timeField;
