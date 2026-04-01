@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class StudentForm extends JFrame {
+    // Added student input fields
     private JPanel panel1;
     private JTextField courseField;
     private JTextField nameField;
